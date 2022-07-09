@@ -5,3 +5,4 @@
 -	create TODO md files, quickly. Add title, then enter line, hit enter. move to next save to a README for example
 -	check note for title, if note doesnt have one, prompt for one.
 -	create file in current dir or specify location (default current dir)
+-	after dir is created, create file.
